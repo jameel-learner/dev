@@ -1,3 +1,5 @@
-Hi
+Git Demo
 
-This is my First GIT file getting configured now...
+1. Configured Git
+2. Created Git Hub Account.
+3. Git Operations
