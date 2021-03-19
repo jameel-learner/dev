@@ -15,7 +15,7 @@ django-mathfilters==0.4.0
 django-modeltranslation==0.13.3
 django-paypal==0.5.0
 django-wkhtmltopdf==0.2
-djangorestframework==3.9.2
+djangorestframework==3.11.2
 html5lib==1.0.1
 idna==2.7
 kiwisolver==1.0.1
