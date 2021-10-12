@@ -23,7 +23,7 @@ Markdown==3.0.1
 matplotlib==3.0.3
 numpy==1.16.2
 oauthlib==2.1.0
-opencv-python==4.0.0.21
+opencv-python==4.1.1.26
 paypal==1.2.5
 pdfkit==0.6.1
 Pillow==5.2.0
