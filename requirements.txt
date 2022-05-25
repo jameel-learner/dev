@@ -28,7 +28,7 @@ paypal==1.2.5
 pdfkit==0.6.1
 Pillow==5.2.0
 pycparser==2.19
-PyJWT==1.6.4
+PyJWT==2.4.0
 PyMySQL==0.9.3
 pyparsing==2.3.1
 PyPDF2==1.26.0
